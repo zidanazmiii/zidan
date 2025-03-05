@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV ZIDAN AZMI PRATAMA</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="wow.jpg" alt="Foto Profil">
+            <div>
+                <h1>Zidan Azmi Pratama</h1>
+                <p>Mahasiswa Sistem Informasi</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Ringkasan Profil</h2>
+            <p>Saya adalah mahasiswa yang aktif berorganisasi, berpengalaman dalam mengelola kegiatan tim, dan bekerja sama dengan anggota untuk mencapai tujuan bersama. Terlibat dalam berbagai kegiatan kepemimpinan dan terbiasa mengorganisir acara serta berkolaborasi dengan orang lain untuk memastikan kelancaran kegiatan organisasi.</p>
+        </div>
+        
+        <div class="section">
+            <h2>Pengalaman Organisasi</h2>
+            <ul>
+                <li><strong>PPI</strong> - Anggota (Jul 2021 - Sekarang)
+                    <ul>
+                        <li>Purna Paskibraka Tahun 2021</li>
+                        <li>Sebagai pelatih paskibra sekolah SMAN</li>
+                    </ul>
+                </li>
+                <li><strong>OSIS SMAN 1 Lima Puluh</strong> - Anggota (Mar 2020 - 2022)
+                    <ul>
+                        <li>Terlibat dalam publikasi, dekorasi, dan dokumentasi acara.</li>
+                        <li>Mengorganisir berbagai kegiatan organisasi.</li>
+                    </ul>
+                </li>
+                <li><strong>DPM (Dewan Perwakilan Mahasiswa)</strong> - Anggota (Tahun 2024 - Sekarang)
+                    <ul>
+                        <li>Meliputi publikasi, desain, produksi konten, serta mendukung event.</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Pendidikan</h2>
+            <ul>
+                <li><strong>Telkom University (2023 - Sekarang)</strong> - Sarjana Sistem Informasi
+                    <ul>
+                        <li>IPK: 3,76</li>
+                    </ul>
+                </li>
+                <li><strong>SMAN 1 Lima Puluh (2019 - 2022)</strong> - Ilmu Pengetahuan Alam
+                    <ul>
+                        <li>Nilai akhir: 87</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>Keahlian</h2>
+            <ul>
+                <li>Kreativitas</li>
+                <li>Komunikasi</li>
+                <li>Berorganisasi</li>
+                <li>Manajemen</li>
+                <li>Bekerja sama</li>
+            </ul>
+        </div>
+        
+        <div class="contact">
+            <p><strong>Phone:</strong> +62-822-6228-5554</p>
+            <p><strong>Email:</strong> zidanpratama017@gmail.com</p>
+            <p><strong>Alamat:</strong> Jalan Kayu Manis VIII, Jakarta Timur, 13130, Indonesia</p>
+        </div>
+    </div>
+</body>
+</html>
